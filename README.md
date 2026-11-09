@@ -1,4 +1,11 @@
 # Predictive Analysis Using Social Profile in Online P2P Lending 
+
+A team project that explores Prosper lending data and compares models for loan-status prediction. The original work covers cleaning, exploratory analysis, feature selection, classification, and a Streamlit prototype.
+
+[Exploratory analysis](EDA_Presentation.ipynb) · [Project poster](Project%20Online%20P2P%20Lending%20Market%20Poster%20%281%29.pdf) · [Streamlit prototype](streamlit_app.py).
+
+The analysis and model discussion below document the original study.
+
 ## 1. Introduction
 Prosper is a global market lending platform that has funded over $8 billion in loans. Prosper enables people to invest in one another in a financially and socially rewarding way. Borrowers list loan requests ranging from $2,000 to $35,000 on Prosper, and individual investors can invest as little as $25 in each loan listing they choose. Prosper manages loan servicing on behalf of the matched borrowers and investors. We will clean up the data and perform exploratory data analysis on the loan data in the following sections, using univariate, bivariate, and multivariate graphs and summaries. The analysis section highlights the most intriguing observations from the plots section. In Final Plots and Summary section, we will identify top three charts and provide final reflections regarding the dataset.
 
